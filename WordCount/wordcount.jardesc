@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/Users/tahsinahmed/Desktop/CST3650/Assignment#8/wordcount-ahmed.tahsin.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/WordCount/wordcount.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <file path="/WordCount/.classpath"/>
+        <javaElement handleIdentifier="=WordCount/src\/main\/resources=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=WordCount/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=WordCount/src\/test\/resources=/test=/true=/=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=WordCount/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <folder path="/WordCount/target"/>
+        <file path="/WordCount/.project"/>
+        <folder path="/WordCount/lib"/>
+        <file path="/WordCount/pom.xml"/>
+        <folder path="/WordCount/src"/>
+    </selectedElements>
+</jardesc>
